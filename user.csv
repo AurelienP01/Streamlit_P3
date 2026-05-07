@@ -1,0 +1,3 @@
+name,password,email,failed_login_attemps,logged_in,role
+aurelien,0000,aurelien@gmail.com,0,false,utilisateur
+root,rootMDP,admin@gmail.com,0,false,administrateur
